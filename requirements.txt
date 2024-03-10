@@ -4,3 +4,6 @@ uvicorn==0.28.0
 ipython==8.21.0
 pgcli==4.0.1
 psycopg==3.1.13
+pydantic-settings==2.2.1
+SQLAlchemy==2.0.28
+alembic==1.13.1
